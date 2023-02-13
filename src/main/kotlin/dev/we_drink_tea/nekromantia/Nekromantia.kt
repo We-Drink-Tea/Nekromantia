@@ -6,7 +6,7 @@ import org.slf4j.Logger
 import org.slf4j.LoggerFactory
 
 object Nekromantia : ModInitializer {
-    val LOGGER: Logger = LoggerFactory.getLogger("Example Mod")
+    val LOGGER: Logger = LoggerFactory.getLogger("Nekromantia")
 
     override fun onInitialize(mod: ModContainer) {
         LOGGER.info("Hello Quilt world from {}!", mod.metadata()?.name())
