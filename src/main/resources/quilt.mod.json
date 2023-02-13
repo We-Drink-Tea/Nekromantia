@@ -1,19 +1,22 @@
 {
 	"schema_version": 1,
 	"quilt_loader": {
-		"group": "com.example",
-		"id": "example_mod",
+		"group": "dev.we_drink_tea",
+		"id": "nekromantia",
 		"version": "${version}",
 		"metadata": {
-			"name": "Mod Name",
+			"name": "Nekromantia",
 			"description": "A short description of your mod.",
 			"contributors": {
-				"Your name here": "Owner"
+				"MisakiCopper": "Project Management/Developer",
+				"KingFlower_": "Game Designer/Developer",
+				"mykawaiiself": "Artist",
+				"Wikkiokami": "Artist"
 			},
 			"contact": {
-				"homepage": "https://example.com/",
-				"issues": "https://github.com/QuiltMC/quilt-kotlin-template-mod/issues",
-				"sources": "https://github.com/QuiltMC/quilt-kotlin-template-mod"
+				"homepage": "Not there yet...",
+				"issues": "https://github.com/We-Drink-Tea/Nekromantia/issues",
+				"sources": "https://github.com/We-Drink-Tea/Nekromantia"
 			},
 			"icon": "assets/example_mod/icon.png"
 		},
@@ -21,7 +24,7 @@
 		"entrypoints": {
 			"init": {
 				"adapter": "kotlin",
-				"value": "com.example.example_mod.ExampleMod"
+				"value": "dev.we_drink_tea.nekromantia.Nekromantia"
 			}
 		},
 		"depends": [
