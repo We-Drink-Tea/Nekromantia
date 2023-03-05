@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WWW",
+    "WR ",
+    "WWW"
+  ],
+  "key": {
+    "W": {
+      "tag": "minecraft:paper"
+    },
+    "R": {
+      "item": "nekromantia:example_item"
+    }
+  },
+  "result": {
+    "item": "nekromantia:custom_example_item"
+  }
+}

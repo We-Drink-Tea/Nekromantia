@@ -1,0 +1,6 @@
+{
+  "item.nekromantia.example_item": "Example Item",
+  "item.nekromantia.custom_example_item": "Custom Example item",
+  "item.nekromantia.custom_example_item.tooltip_1": "This item has custom behaviour where it makes a sound when right-clicked or \"used\"",
+  "item.nekromantia.custom_example_item.tooltip_2": "I am blue la da dia da dee"
+}
